@@ -4,7 +4,7 @@ Taking advantage of the built-it functions in the webCanvas 2D drawing context t
 ## Important
 This works only in 2D because the function are native to the 2D drawing context API. It can be done in 3D but it would require a totally different setup.
 
-
+## Methods
 ``` js
  function wordSpacing(space:number)
 ```
